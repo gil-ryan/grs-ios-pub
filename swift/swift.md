@@ -9,6 +9,13 @@
 
 ## What exactly is in iOS
 
+### What goes into features like...
+
+* Cocoa Touch
+* Media
+* Core Services
+* Core OS
+
 |: Core technology | feature |
 |:--:|:--:|
 | OSX Kernal| Power management | 
