@@ -62,3 +62,9 @@ We won't be touching upon these aspects in the repository.
 |Sockets | File System|
 |Security | Bonjour|
 
+### Platform Components
+
+* Tools
+* Language(s)
+* Frameworks
+* Design strategy
