@@ -16,10 +16,49 @@
 * Core Services
 * Core OS
 
-|: Core technology | feature |
+#### Cocoa Touch
+
+UI Aspect
+
+| Core technology | feature |
+|:--:|:--:|
+| Multi-touch | Alerts |
+| Core Motion | Web view|
+| View Hierarchy | Map Kit|
+| Localization | Image Picker|
+| Controls | Camera | 
+
+#### Media
+
+| Core technology | feature |
+|:--:|:--:|
+| Core audio | JPEG, PNG, TIFF|
+| OpenAL | PDF|
+| Audio Mixing | Quartz (2D)|
+| Audio Recording | Core Animation|
+| Video Playback | OpenGL ES
+
+#### Core Services
+
+These are on top of the lower level services below. 
+
+| Core technology | feature |
+|:--:|:--:|
+| Collections | Core Location|
+| Address Book | Net Services|
+| Networking | Threading |
+| File Access | Preferences |
+| SQLite | URL Utilites
+
+#### Core OS
+
+We won't be touching upon these aspects in the repository.
+
+| Core technology | feature |
 |:--:|:--:|
 | OSX Kernal| Power management | 
 |Mach 3.0 | Keychain access|
 |BSD | Certificates|
 |Sockets | File System|
 |Security | Bonjour|
+
