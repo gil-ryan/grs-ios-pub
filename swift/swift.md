@@ -68,3 +68,14 @@ We won't be touching upon these aspects in the repository.
 * Language(s)
 * Frameworks
 * Design strategy
+
+```swift
+import UIKit
+
+internal class ViewController : UIViewController {
+
+    override internal func viewDidLoad()
+
+    @IBAction internal func basic_method_init(_ sender: Any)
+}
+```
