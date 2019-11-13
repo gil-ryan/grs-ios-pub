@@ -4,3 +4,8 @@ Much like most object oriented extensions of C, there are various syntactic and 
 
 This directory is dedicated to following best practices, and allowing growth along the way.
 
+## Code Naming Basics
+
+## Naming Methods, Functions, and more
+
+
