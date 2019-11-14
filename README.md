@@ -5,15 +5,15 @@ iOS
 
 Use this directory for overall design and concept of iOS applications in Xcode. This generally inclusive to both Objective-C and Swift.
 
-[Xcode design and concepts](https://github.com/gil-ryan/grs-ios-pub/tree/master/xcode)
+[Xcode Design and Implementation Repository](https://github.com/gil-ryan/grs-ios-pub/tree/master/xcode)
 
 ## Object-C
 
-
+[Objective-C Repository](https://github.com/gil-ryan/grs-ios-pub/tree/master/objective-c)
 
 ## Swift
 
-
+[Swift Repository](https://github.com/gil-ryan/grs-ios-pub/tree/master/swift)
 
 ## Model View Controller
 
