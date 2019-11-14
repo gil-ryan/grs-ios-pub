@@ -55,6 +55,13 @@ var flipCount: int = 0
 ### Property Observer
 
 
+### Optional
+
+__nil__ = notset case of an optional, in other language it would be a _zero pointer_
+
+How to I get that particular int? Addition a __!__ mean assume this optional is set, and grab the value. Returning an optional not in the set state will cause your program to crash, which is going to be fatal error you will see often.
+
+
 ### Xcode tips
 
 Xcode > Behavior > Edit Behavior
