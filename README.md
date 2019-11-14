@@ -1,6 +1,12 @@
 # grs-ios-pub
 iOS
 
+## Xcode
+
+Use this directory for overall design and concept of iOS applications in Xcode. This generally inclusive to both Objective-C and Swift.
+
+[Xcode design and concepts](https://github.com/gil-ryan/grs-ios-pub/tree/master/xcode)
+
 ## Object-C
 
 
