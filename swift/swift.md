@@ -174,7 +174,7 @@ Checking API Availability
 
 #### Classes and Structures
 
-* Comparing Classes and Structures
+* [Comparing Classes and Structures]()
 * Structures and Enumerations Are Value Types (ignore enumerations)
 * Classes Are Reference Types
 * Choosing Between Classes and Structures

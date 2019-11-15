@@ -2,6 +2,10 @@
 
 Design paradigm require for iOS. Lets apply it to our concentrator app. Divide objects into three camps.
 
+So the Storyboard is our view,  ViewController is our view, we need the Model.
+
+File > New > New File
+
 * Model
     + What you application is (but not how it is displayed)
 * View
@@ -28,3 +32,9 @@ One MVC is generally used to controll one screen on the iPhone. Now combine MVC 
 
 Here is another visual.
 ![multiple MVC for iOS app](https://github.com/gil-ryan/grs-ios-pub/blob/master/img/multiple-mvc.png)
+
+## Model
+
+### File > New > New File
+
+![Image of template files menu]()
