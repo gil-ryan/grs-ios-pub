@@ -64,5 +64,18 @@ The free initializer they get is for all _vars_.
 
 ### Sidenotes to be moved
 
-* __\___ if for loops stand for nothing, just an empty variable you won't use
+*  the__\___ keyword is used for loops and stands for nothing, just an empty variable you won't use
+
+```swift
+init(numberOfPairsOfCards: Int){
+    for _ in 1...numberOfPairsOfCards {
+        let card = Card()
+        cards += [card,card]
+    }
+```
+
 * keyword __lazy__ allow you to initalize and use a variable without actually initializing it, until it's eventually used
+    + one restriction, you __cannot__ use a _didSet{}
+
+
+### property observers
