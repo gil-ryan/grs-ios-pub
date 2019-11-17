@@ -77,5 +77,7 @@ init(numberOfPairsOfCards: Int){
 * keyword __lazy__ allow you to initalize and use a variable without actually initializing it, until it's eventually used
     + one restriction, you __cannot__ use a _didSet{}
 
-
 ### property observers
+
+Can't be used with _lazy_ vars. There are methods that are called after 
+ 

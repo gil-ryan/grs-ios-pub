@@ -38,3 +38,14 @@ Here is another visual.
 ### File > New > New File
 
 ![Image of template files menu]()
+
+#### Cocoa Touch Class
+
+A subclass for Cocoa Touch UI
+
+#### Swift File
+
+Now __this__ is the blank model file we're looking for. We always name model files after the most important class that is inside the file. 
+
+
+
